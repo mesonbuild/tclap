@@ -1,0 +1,8 @@
+[wrap-file]
+directory = tclap-1.2.3
+source_url = https://sourceforge.net/projects/tclap/files/tclap-1.2.3.tar.gz
+source_filename = tclap-1.2.3.tar.gz
+source_hash = 19e7db5281540f154348770bc3a7484575f4f549aef8e00aabcc94b395f773c9
+
+[provide]
+tclap = tclap_dep
